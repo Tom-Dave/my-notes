@@ -1,0 +1,18 @@
+                                                                                  JAVA
+
+what is java? it is a high level programming language mainly used for enterprises and scalable applications.
+Java was made in 1995 and in 1996 the first book on how to program java was by Tom and Harvey.
+Java is a programming language tat uses a compiler to transform it to machine language which falls down to 0s and 1s.
+Those 1s & 0s are contained as a bit(Binary Digit), and it follows the Data Hierarchy: bits -> byte -> field -> class -> record -> files -> databases
+We have three main programming paradigm while using java:
+1) Objected Oriented Programming
+2) Procedural Programming
+3) Generic Programming
+whereby the most common and effective method programming paradigm used is OOP (Object Oriented Programming)
+
+Computer Organisation:
+- Input unit
+- Output unit
+- Memory unit
+- Arithmetic and Logic Unit
+- Central Processing Unit
